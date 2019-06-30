@@ -1,1 +1,0 @@
-alert('Gunakan Situs Desktop dan putar musik di bawah --EGI JR--');
